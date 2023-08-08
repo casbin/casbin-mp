@@ -90,7 +90,7 @@ Casdoor SDK可分为两类：前端sdk和后端sdk
 | Node.js sdk | https://github.com/casdoor/casdoor-nodejs-sdk |
 | Python sdk  | https://github.com/casdoor/casdoor-python-sdk |
 | PHP sdk     | https://github.com/casdoor/casdoor-php-sdk    |
-| .NET sdk    | https://github.com/casdoor/casdonet-sdk       |
+| .NET sdk    | https://github.com/casdoor/casdoor-dotnet-sdk       |
 
 前后端配置的详细方法请参考文档
 
